@@ -19,6 +19,6 @@ public class LuckyDip implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Loading of " + MOD_ID + " complete.");
+		LOGGER.info("Loading of " + MOD_ID + " complete. See GitHub for guide.");
 	}
 }
